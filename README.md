@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Vitor-Rios
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Analista de Dados
+- BI
+- Python
+- ETL
+- SQL
+
 
 <!---
 Vitor-Rios/Vitor-Rios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
